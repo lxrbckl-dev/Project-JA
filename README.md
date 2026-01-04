@@ -1,7 +1,7 @@
 # Project JA 4
 > Interact with the mystical conch shell, engage in weekly conversation prompts, and delegate decision-making. Fall 2024.
 >
-> **`TypeScript`** **`Docker`** `axios` `node-cron` `discordjs` `github-actions`
+> **`TypeScript`** **`Docker`** `axios` `node-cron` `discordjs` `open-ai` `github-actions`
 
 ---
 
