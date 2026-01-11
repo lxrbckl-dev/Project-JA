@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <img width="155" src="https://i.postimg.cc/0Qz8k5L2/Kyle.jpg">
+  <img width="155" src="https://immich.lxrbckl.com/api/assets/bd46a542-6fe3-4d32-89aa-73b0b00eee93/thumbnail?key=4u7nKpH1UCNlCg4EsR6DVbjcDhTqOERaA3UbvnUWwpQZy07OYdNbKF1Lctn2tqFsFdk&size=preview&c=oKcJDQJ%2FiI95d1eHiHZYp5RfA5go">
 </p>
 <div align="center">
   
