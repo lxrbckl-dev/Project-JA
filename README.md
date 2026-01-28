@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <img width="155" src="https://immich.lxrbckl.com/api/assets/f4447430-75af-4bcd-a3b7-f88896b35e1e/thumbnail?slug=dedications&size=preview&c=3CgKDACCOHQIhXJ5d4aSMhAMIg%3D%3D&edited=true">
+  <img width="155" src="https://immich.lxrbckl.com/api/assets/bd46a542-6fe3-4d32-89aa-73b0b00eee93/thumbnail?slug=dedications&size=preview&c=oKcJDQJ%2FiI95d1eHiHZYp5RfA5go&edited=true">
 </p>
 <div align="center">
   
