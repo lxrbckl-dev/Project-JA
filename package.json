@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lxrbckl": "^9.9.4",
-    "node-cron": "^3.0.3"
+    "node-cron": "^4.2.1"
   }
 }
