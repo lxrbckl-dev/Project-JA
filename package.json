@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lxrbckl": "^9.9.4",
-    "node-cron": "^3.0.3"
+    "node-cron": "^4.6.0"
   },
   "overrides": {
     "undici": "6.28.0"
