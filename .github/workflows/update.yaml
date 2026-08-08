@@ -11,25 +11,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event.head_commit.message == 'Update'
     env:
 
       project: "project-ja"
-      commitMessage: "Update"
       architecture: "linux/arm64"
 
     steps:
-
-      - name: Evaluate Commit Message
-        run: |
-
-          commitMessage="${{ github.event.head_commit.message }}";
-
-          if [ "$commitMessage" != "${{ env.commitMessage }}" ]; then
-
-             echo "Strictly told not to update.";
-             exit 1;
-
-          fi
 
       - name: Checkout Repository
         uses: actions/checkout@v4
